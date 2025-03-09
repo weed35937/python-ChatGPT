@@ -91,7 +91,3 @@ python websitegpt.py
 - Respect robots.txt and website terms of service
 - Consider rate limiting for large websites
 - Some websites may block automated access
-
-## Contributing 🤝
-
-Contributions are welcome! Please feel free to submit a Pull Request.
