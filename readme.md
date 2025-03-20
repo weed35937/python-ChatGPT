@@ -27,14 +27,7 @@ Required packages:
 - lxml
 
 ## Installation 💿
-
-1. Clone the repository:
-```bash
-git clone https://github.com/thogir0712/python-chatgpt.git
-cd websiteGPT
-```
-
-2. Create and activate a virtual environment:
+1. Create and activate a virtual environment:
 ```bash
 # Create virtual environment
 python3 -m venv venv
@@ -46,7 +39,7 @@ source venv/bin/activate
 .\venv\Scripts\activate
 ```
 
-3. Install dependencies:
+2. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
